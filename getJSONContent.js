@@ -26,7 +26,6 @@ var pathString = '../Github/words-from-the-heart/';
 
 var writePathString = './all_words.json';
 
-
 var errorPathString = './error_data.json';
 
 

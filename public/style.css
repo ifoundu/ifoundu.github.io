@@ -12,8 +12,20 @@
   color: #fff;
 }
 
+.main-header h4 {
+  margin-top: 0;
+  color:#b5a6cc;
+}
+
 .words-pannel {
-  margin-top: 10px;
+  margin-top: 15px;
+}
+
+.panel-heading h3 {
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size: 20px;
+  color: #3a3931
 }
 
 .avatar {
